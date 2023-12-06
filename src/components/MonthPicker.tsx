@@ -80,6 +80,7 @@ const MonthSelect = styled.select`
   position: absolute;
   top: 0;
   left: 0;
+  cursor: pointer;
 `;
 const MonthButton = styled.div`
   display: flex;
