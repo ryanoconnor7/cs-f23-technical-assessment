@@ -4,6 +4,8 @@ Welcome to my code sample, an **interactive calendar date picker**.
 
 You can select dates and move back and forth between months as you'd expect, but there are some neat additional features.
 
+### Try out the project! [Go ➔](https://ryanoconnor7.github.io/technical-assessment/)
+
 ## Additional Feature #1: Swipe Between Months on Mobile
 
 It's as simple as that! Use a left or right swipe gesture on the calendar to change months on devices that are narrower than 450px.
@@ -20,7 +22,3 @@ This project only uses a few packages to help:
 - `lodash` for some quick data utils
 - `moment` for modern date utils
 - `gh-pages` for deployment on GitHub
-
-### Try out the project!
-
-[Go ➔](https://ryanoconnor7.github.io/technical-assessment/)
