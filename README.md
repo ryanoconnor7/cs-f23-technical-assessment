@@ -4,7 +4,7 @@ Welcome to my code sample, an **interactive calendar date picker**.
 
 You can select dates and move back and forth between months as you'd expect, but there are some neat additional features.
 
-### Try out the project! [Go ➔](https://ryanoconnor7.github.io/technical-assessment/)
+### Try out the project! [Go ➔](https://ryanoconnor7.github.io/cs-f23-technical-assessment/)
 
 ## Additional Feature #1: Swipe Between Months on Mobile
 
