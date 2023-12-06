@@ -1,7 +1,7 @@
 {
   "name": "technical-assessment",
   "version": "0.1.0",
-  "homepage": "https://ryanoconnor7.github.io/technical-assessment",
+  "homepage": "https://ryanoconnor7.github.io/cs-f23-technical-assessment",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
